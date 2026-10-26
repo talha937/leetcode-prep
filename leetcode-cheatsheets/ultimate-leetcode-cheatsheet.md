@@ -4,7 +4,7 @@
 
 *Your comprehensive reference for pattern recognition, algorithm selection, and systematic problem-solving*
 
----
+---/
 
 ## **📋 Table of Contents**
 
